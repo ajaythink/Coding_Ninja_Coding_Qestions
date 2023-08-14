@@ -31,9 +31,7 @@ Output Format:
 Print the size of the data type in bytes.
 Note:
 
-You do not need to print anything; it has already been taken care of. Just implement the given function
-
-.
+You do not need to print anything; it has already been taken care of. Just implement the given function.
 
 Sample Input 1:
 
@@ -41,7 +39,6 @@ Long
 
 Sample Output 1:
 
-Explanation Of Sample Input 1:
 Explanation Of Sample Input 1:
 
 The size of a Long variable is given as 8 bytes.
