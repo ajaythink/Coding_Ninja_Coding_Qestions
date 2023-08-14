@@ -1,5 +1,3 @@
-Problem Statement Suggest Edit
-
 Data type refers to the type of value a variable has and the way the computer interprets it.
 
 Each data type has a different size. You've studied 5 different data types and the sizes of the data types:
